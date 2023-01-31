@@ -17,7 +17,7 @@
 # Pour laundry detergent on the clothes in one big circle
 
 # Take cap off fabric softener
-# Pour fabric softener in to spot for fabric softener until filled
+# Pour fabric softener in to fabaric spftener compartment until filled
 # Put cap back on fabric softener
 
 # Push and turn dial on washing machine to Normal Wash
