@@ -4,6 +4,7 @@
 
 ## Variables: 
 > Rooms (room1, room2, room3, room4, room5) //These rooms will be checked for clothes
+#
 > laundryRoom //Where laundry will be completed
 > checkForClothes = checkClothes //This will be either true or false. True will do the action pickUpClothes. If false, the function will end
 > Clothes //Object that will be put in to the washingMachine and dryer
