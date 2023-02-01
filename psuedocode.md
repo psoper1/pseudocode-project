@@ -30,9 +30,24 @@
 - if there are no clothes
 - go to next room until each room has no clothes on the floor (checkForClothes === false)
 
+# ```js
+function checkForClothes {
+    if clothes are on the floor in Room
+    then true
+    if not
+    then false
+}
+# ```
+
+
+
 # Go in to the laundryRoom with the basketOfClothes
 - Open lid to washingMachine (washerLid)
 - Put Clothes from basketOfClothes in to the washingMachine
+
+# ```
+function add basketOfClothes to washingMachine
+# ```
 
 # Take cap (dCap) off of laundrDetergent
 - Fill cap (dCap) halfway full
