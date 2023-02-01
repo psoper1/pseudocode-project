@@ -2,6 +2,23 @@
 
 ## How to do laundry
 
+## Variables: 
+# Rooms (room1, room2, room3, room4, room5) //These rooms will be checked for clothes
+# checkForClothes = checkClothes //This will be either true or false. True will do the action pickUpClothes. If false, the function will end
+# Clothes //Object that will be put in to the washingMachine and dryer
+# washingMachine //Where Clothes will be put in to to wash
+# dryer //Where Clothes will be put in to dry
+# basketOfClothes = basket //Where Clothes will be stored while transporting throughout the house and in to the laundryRoom to start wash and dry
+# laundryDetergent = Detergent //Will be added to the Clothes after Clothes are put in the washingMachine
+# fabricSoftener = Softener //Will be added to the Clothes after the laundryDetergent is added
+# detergentCap = dCap //Cap for the laundryDetergent
+# softenerCap = sCap //Cap for the fabricSoftener
+# washingDial = wDial //Dial on the washingMachine
+# dryerDial = dDial //Dial on the dryer
+# washerLid = wLid //Lid to the washingMachine
+# dryerDoor = dDoor //Door to the dryer
+# lintTrap //Lint Trap that will be checked if needed to be clean. Will be two values, true or false. True if > 50% filled and false if < 50% filled
+
 # Go in to each room of the house
 # if clothes are on the floor
 # put clothes in basket
