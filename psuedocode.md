@@ -34,7 +34,7 @@
 function checkForClothes {
     if clothes are on the floor in Room
     then true
-    if not
+    else
     then false
 };
  ```
@@ -128,7 +128,7 @@ function Will {
 function checkForClothes {
     if clothes are on the floor in Room
     then true
-    if not
+    else
     then false
 };
 
@@ -159,9 +159,9 @@ function lintTrap {
 };
 
 function Will {
-    if will == true
+    if will === true
         put Clothes away
-    if will == false
+    if will === false
         wait until laundry is needed again
 };
 
